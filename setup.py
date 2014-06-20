@@ -12,4 +12,4 @@ setup(name="classowl-client",
                    'Topic :: Internet :: WWW/HTTP'],
       license='LICENSE',
       long_description=open('README.rst').read(),
-      install_requires=["slumber == 0.8"])
+      install_requires=["slumber == 0.6"])
